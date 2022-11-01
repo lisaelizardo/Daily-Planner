@@ -1,6 +1,6 @@
 var today = moment();
 var currentTime = moment().hour();
-var timeId = moment().
+
 //formats current date to Month Day, Year
 $("#currentDay").text(today.format("MMM Do, YYYY"));
 
